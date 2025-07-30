@@ -10,13 +10,14 @@ Here’s a showcase of some projects I’ve built:
 ### 1. Company Website for Ameeratel Inc. (https://www.ameeratel.com/)
 A responsive corporate website designed for a local business to enhance its online presence.  
 **Tech Stack:** WordPress, PHP, jQuery, MySQL
+Ameeratel Screenshots: 
 
 ---
 
 ### 2. Company Website for Forte Precision Metals (https://www.fortemetals.com/)
 A responsive corporate website was designed for a US-based business to enhance its online presence.  
 **Tech Stack:** WordPress, PHP, jQuery, MySQL
-Ameeratel Screenshots: 
+Forte Precision Metals Screenshots: 
 
 ---
 
